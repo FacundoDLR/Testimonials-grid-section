@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap");
+
+:root {
+  /* VARIABLES DE FUENTE */
+  --font-primary: "Barlow Semi Condensed", sans-serif;
+
+  /* TIPOGRAFÍA */
+  --font-size-lg: 1.25rem; /* 20px */
+  --font-size-md: 0.8125rem; /* 13px */
+  --font-size-sm: 0.6875rem; /* 11px */
+
+  --font-weight-semiBold: 600;
+  --font-weight-medium: 500;
+
+  --line-height-title: 1.25;
+  --line-height-description: 1.125;
+
+  /* COLOR */
+
+  /* Primary */
+  --Moderate-violet: hsl(263, 55%, 52%);
+  --Very-dark-grayish-blue: hsl(217, 19%, 35%);
+  --Very-dark-blackish-blue: hsl(219, 29%, 14%);
+  --White: hsl(0, 0%, 100%);
+
+  /* Neutral */
+  --Light-gray: hsl(0, 0%, 81%);
+  --Light-grayish-blue: hsl(210, 46%, 95%);
+
+  /* SPACING */
+  --spacing400: 2rem;
+  --spacing350: 1.5rem;
+  --spacing300: 1.125rem;
+  --spacing-100: 1rem;
+  --spacing50: 0.5rem;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    font-family: var(--font-primary);
+    font-size: var(--font-size-md);
+    color: var(--Very-dark-grayish-blue);
+    background-color: var(--Light-grayish-blue);
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    width: 100%;
+    padding: 5rem 1.5rem;
+    display: grid;
+    gap: 1.5rem;
+    max-width: 69.375rem;
+}
+
+.attribution {
+  display: none;
+  font-size: 11px;
+  text-align: center;
+
+  & a {
+    color: hsl(228, 45%, 44%);
+  }
+}
