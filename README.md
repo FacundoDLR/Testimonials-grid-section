@@ -6,7 +6,7 @@ Hi stranger, thanks for checking out my solution for this front-end coding chall
 
 This is my solution to the [Testimonials grid section](https://www.frontendmentor.io/profile/FacundoDLR/solutions).
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Testimonials grid section coding challenge](https://testimonials-grid-section-facundodlrs-projects.vercel.app/design/desktop-preview.jpg)
 
 ## 📝 Table of contents
 
@@ -37,7 +37,7 @@ This challenge will be perfect practice for anyone wanting to test their CSS Gri
 ### 📎 Links
 
 - View code URL: [Github Repo](https://github.com/FacundoDLR/Testimonials-grid-section.git)
-- Live Site URL: [Live Demo]()
+- Live Site URL: [Live Demo](https://testimonials-grid-section-facundodlrs-projects.vercel.app/)
 
 ## My process
 
