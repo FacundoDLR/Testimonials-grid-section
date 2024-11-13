@@ -28,11 +28,11 @@ This challenge will be perfect practice for anyone wanting to test their CSS Gri
 
 **PC Screenshot**
 
-<img src="./assets/screenshots/profile.card.png" width="1280" height="auto">
+<img src="https://testimonials-grid-section-facundodlrs-projects.vercel.app/assets/screenshots/MacBook Pro-1731510387697.jpeg" width="1280" height="auto">
 
 **Mobile Screenshot**
 
-<img src="./assets/screenshots/profile-card-mobile.jpg" width="400" height="auto">
+<img src="https://testimonials-grid-section-facundodlrs-projects.vercel.app/assets/screenshots/iPhone 6-7-8-1731510545870.jpeg" width="400" height="auto">
 
 ### 📎 Links
 

@@ -120,7 +120,7 @@ main {
     flex-direction: column;
     gap: var(--spacing-100);
 
-    & h3 {
+    & .quote {
       font-size: var(--font-size-lg);
       color: var(--White);
       font-weight: var(--font-weight-semiBold);
@@ -138,7 +138,7 @@ main {
 .card:nth-child(3),
 .card:nth-child(5) {
   & .user__info p span,
-  & .user__summary :is(h3, p) {
+  & .user__summary :is(.quote, p) {
     color: var(--Very-dark-grayish-blue) ;
   }
 }
